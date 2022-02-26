@@ -9,7 +9,7 @@ A simple Lost Ark fishing bot using Python and OpenCV
 
   
 ## Notes
-* Be sure to have the Lost Ark window focused when running the bot
+* Be sure to have the Lost Ark window focused **and fully zoomed out** when running the bot
 * Be sure to have your fishing pole ready and your Trade Skills hotbars enabled
 * The bot assumes that E is bound to your fishing pole skill
 * I will not be providing any support for this project
